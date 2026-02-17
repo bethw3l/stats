@@ -2,7 +2,7 @@
   "name": "stats-platform",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/stats-platform",
+  "homepage": "homepage": "https://bethw3l.github.io/stats-platform/"
   "type": "module",
   "scripts": {
     "dev": "vite",
